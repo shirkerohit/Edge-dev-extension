@@ -1,0 +1,20 @@
+body{
+    height: 160px;
+    width: 160px;
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+.text-right{
+    text-align: right;
+}
+.text-left{
+    text-align: left;
+}
+table , tr , td , button {
+    font-size: medium;
+}
+#message{
+    font-size: medium;
+}
